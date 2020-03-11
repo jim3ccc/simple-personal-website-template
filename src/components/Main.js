@@ -25,9 +25,9 @@ class Main extends Component {
                                 <h2>My name is {name}</h2>
                             </div>
 
-                            <div className="container">
+                            {/* <div className="container">
                                 <img id="profile-pic" src={profilepic} className="col-12 rounded-circle" alt="Profile Picture"></img>
-                            </div>
+                            </div> */}
                         
                         
                         <div id="about">

@@ -1,21 +1,21 @@
 h1, h2, h3, h4, h5, h6, p, body,
 div, span, ul, li, a {
-    font-family: 'Open Sans', serif;
+    font-family: 'Ubuntu', serif;
     color: #000000;
 }
 
 #hello {
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 h1 {
     font-size: 70px;
     font-weight: bold;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 #name {
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 h2 {
@@ -23,7 +23,7 @@ h2 {
 }
 
 #about {
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 p {

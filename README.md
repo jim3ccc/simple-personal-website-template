@@ -1,6 +1,6 @@
 ## About
 
-A very minimal personal website template inspired by Evan You's personal [website](https://evanyou.me/).
+A very minimal personal website React template inspired by Evan You's personal [website](https://evanyou.me/).
 
 ## Screenshot
 ![screenshot](public/images/screenshot.jpg)

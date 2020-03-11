@@ -1,0 +1,56 @@
+h1, h2, h3, h4, h5, h6, p, body,
+div, span, ul, li, a {
+    font-family: 'Open Sans', serif;
+    color: #000000;
+}
+
+#hello {
+    margin-top: 30px;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#name {
+    margin-top: 30px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+#about {
+    margin-top: 30px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(#a280ff, #a280ff);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 4px;
+    color: #5a1df4;
+    transition: background-size cubic-bezier(0,.5,0,1) 0.3s;
+    font-weight: bold;
+  }
+  
+a:hover, a:active{
+    text-decoration: none;
+    background-size: 100% 4px;
+    color: #5a1df4;
+}
+
+#profile-pic{
+    max-width: 180px;
+    height: 140px;
+    margin-top: 30px;
+}
+

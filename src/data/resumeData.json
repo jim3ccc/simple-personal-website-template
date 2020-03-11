@@ -1,0 +1,45 @@
+{
+    "main": {
+      "name":"Clark Kent",
+      "occupation":"Superhero",
+      "image":"profilepic.jpg",
+      "address":{
+        "city":"Metropolis"
+      },
+      "resumedownload":"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "social": {
+          "twitter":{
+            "url": "https://twitter.com/KingJames"
+          },
+          "linkedin":{
+            "url": "https://www.linkedin.com/company/google/"
+          },
+          "github":{
+            "url": "https://github.com/torvalds"
+          }
+      }
+    },
+    "resume":{
+      "education":[
+        {
+          "school":"University of British Columbia",
+          "degree":"Bachelor of Science in Computer Science",
+          "graduated":"May 2020"
+        }
+      ]
+    },
+    "projects": [
+    {
+        "title":"BlockArt",
+        "category":"Drawing application implemented with a blockchain",
+        "image":"blockart.png",
+        "url":"https://github.com/dohkno/BlockArt"
+    },
+    {
+        "title":"Mooncake",
+        "category":"Custom Android Toast Library",
+        "image":"mooncake.png",
+        "url":"https://github.com/dohkno/Mooncake"
+    }
+    ]
+  }
